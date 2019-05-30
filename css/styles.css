@@ -1,0 +1,26 @@
+body {
+  background-color: #002400;
+  color: #7B904B;
+}
+
+.name {
+  color: #DBD2E0;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align:  center;
+  font-size: 30px;
+}
+
+#names  {
+  list-style: none;
+}
+
+img {
+  padding: 10px;
+  border: 15px solid #58641D;
+  margin: 20px;
+}
+
+ul {
+  float: left;
+}
