@@ -37,19 +37,21 @@ h2 {
   color: #7B904B;
 }
 
-.column1 {
-  width: 45%;
-  float: left;
+@media screen and (min-width: 800px) {
+  .column1 {
+    width: 45%;
+    float: left;
 
-}
+  }
 
 
-.column2 {
-  width: 45%;
-  float: right;
-}
+  .column2 {
+    width: 45%;
+    float: right;
+  }
 
-.box {
-  margin: 15px;
-  padding:15px;
+  .box {
+    margin: 15px;
+    padding:15px;
+  }
 }
