@@ -1,6 +1,6 @@
 body {
   background-color: #002400;
-  color: #7B904B;
+  color: #58641D;
 }
 
 .name {
@@ -23,4 +23,33 @@ img {
 
 ul {
   float: left;
+  margin: 20px;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #7B904B;
+}
+
+h2 {
+  margin-left: 15%;
+  color: #7B904B;
+}
+
+.column1 {
+  width: 45%;
+  float: left;
+
+}
+
+
+.column2 {
+  width: 45%;
+  float: right;
+}
+
+.box {
+  margin: 15px;
+  padding:15px;
 }
